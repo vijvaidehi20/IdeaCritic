@@ -86,6 +86,6 @@ This holistic analysis transforms vague concepts into actionable, well-assessed 
 
 ### Setup
 ```bash
-git clone [<repo-link>](https://github.com/vijvaidehi20/IdeaCritic.git)
+git clone https://github.com/vijvaidehi20/IdeaCritic.git
 cd IdeaCritic
 pip install -r requirements.txt
