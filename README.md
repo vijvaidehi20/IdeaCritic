@@ -75,6 +75,12 @@ This holistic analysis transforms vague concepts into actionable, well-assessed 
 
 ---
 
+## 🎥 Demo Video
+Watch the running project here:  
+👉 [Click here to watch the demo](https://drive.google.com/file/d/1O5CFeO-h98KVq95ldG3K4CAKDoRE1JJd/view?usp=drive_link)
+
+---
+
 ## ▶️ How to Run the Project
 
 ### Prerequisites
