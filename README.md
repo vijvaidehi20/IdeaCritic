@@ -19,6 +19,11 @@ By identifying blind spots, providing market intelligence, and delivering an inv
 5. **Investor Bot**: Computes a weighted overall score out of 100 based on Market Potential, Innovation, Scalability, Team Feasibility, and Risk. It delivers a firm verdict ("Strong Buy", "Consider with Caution", etc.) and practical recommendations.
 6. **Persistent Archive**: All debates, final summaries, and scores are automatically saved to a **MongoDB** database so you can revisit past ideas using the 'Analysis History' page.
 
+## 🎥 Demo Video
+
+Watch the running project here:  
+👉 [Click here to watch the demo](https://drive.google.com/file/d/1O5CFeO-h98KVq95ldG3K4CAKDoRE1JJd/view?usp=drive_link)
+
 ## ⚙️ Tech Stack
 
 - **Frontend / Fullstack Framework**: [Streamlit](https://streamlit.io/)
